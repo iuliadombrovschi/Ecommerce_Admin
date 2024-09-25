@@ -4,7 +4,7 @@ generator client {
 
 datasource db {
   provider     = "mysql"
-  url          = "mysql://avnadmin:AVNS_XLj_K34mxqLlqEmsvQo@mysql-36e12caf-mishakalga-b554.l.aivencloud.com:10291/defaultdb?ssl-mode=REQUIRED"
+  url          = "mysql://newuser:Pa$$word123@localhost:3306/prisma"
   relationMode = "prisma"
 }
 
